@@ -1,2 +1,2 @@
 # CBIB SZ
-[](./pics/haoxue.jpeg)
+[](./haoxue.jpeg)
