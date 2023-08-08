@@ -1,2 +1,1 @@
 # CBIB SZ
-![](./haoxue.jpeg)
