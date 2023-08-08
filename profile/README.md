@@ -1,2 +1,2 @@
 # CBIB SZ
-[](./haoxue.jpeg)
+![](./haoxue.jpeg)
